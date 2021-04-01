@@ -1,0 +1,13 @@
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\bin\Debug\netcoreapp3.1\Lista en c#.exe
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\bin\Debug\netcoreapp3.1\Lista en c#.deps.json
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\bin\Debug\netcoreapp3.1\Lista en c#.runtimeconfig.json
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\bin\Debug\netcoreapp3.1\Lista en c#.runtimeconfig.dev.json
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\bin\Debug\netcoreapp3.1\Lista en c#.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\bin\Debug\netcoreapp3.1\Lista en c#.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\obj\Debug\netcoreapp3.1\Lista en c#.csprojAssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\obj\Debug\netcoreapp3.1\Lista en c#.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\obj\Debug\netcoreapp3.1\Lista en c#.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\obj\Debug\netcoreapp3.1\Lista en c#.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\obj\Debug\netcoreapp3.1\Lista en c#.dll
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\obj\Debug\netcoreapp3.1\Lista en c#.pdb
+C:\Users\carlo\OneDrive\Escritorio\Programacion\Tareas\Lista en c#\obj\Debug\netcoreapp3.1\Lista en c#.genruntimeconfig.cache
